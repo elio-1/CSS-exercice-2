@@ -27,3 +27,9 @@ body {
     margin-left: 1rem;
 }
 
+section {
+    background-color: bisque;
+    border: 1px solid black;
+    padding: 1rem;
+    display: flow-root;
+}
